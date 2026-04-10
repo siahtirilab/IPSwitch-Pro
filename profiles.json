@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Test",
+    "adapter": "Main_Ethernet",
+    "ip_address": "192.168.100.5",
+    "subnet_mask": "255.255.255.0",
+    "use_dhcp": false
+  }
+]
