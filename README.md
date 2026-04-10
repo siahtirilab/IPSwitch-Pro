@@ -1,8 +1,8 @@
-# 🚀 IPSwitch Ping Pro
+# 🚀 IPSwitch Pro
 
 ![App Screenshot](./screenshot.png)
 
-**IPSwitch Ping Pro** is a powerful Windows tool designed to help you **manage network IP profiles**, **quickly switch between configurations**, and **run real-time ping tests** — all in one lightweight application.
+**IPSwitch Pro** is a powerful Windows tool designed to help you **manage network IP profiles**, **quickly switch between configurations**, and **run real-time ping tests** — all in one lightweight application.
 
 ---
 
